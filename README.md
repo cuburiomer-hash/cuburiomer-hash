@@ -21,4 +21,4 @@ I combine strong multilingual communication with fundamental frontend skills to 
 
 ---
 
-📫 **Contact Me:** Email : cuburiomerr@icloud.com | Linkedin : www.linkedin.com/in/ömer-cuburi-96393b411
+📫 **Contact Me:** Email : cuburiomerr@icloud.com | Linkedin : www.linkedin.com/in/ömer-cuburi-96393b411  Live Portfolio : https://my-job-ticket.netlify.app
