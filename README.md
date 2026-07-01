@@ -1,6 +1,6 @@
 # Hi there! I'm Omar Cuburi 👋
 ### 🖥️ Creative Frontend Engineer & Multilingual UI Specialist
-🚀 **Seeking Visa Sponsorship & Relocation (Target: Europe / UAE)**
+🚀 **Seeking Visa Sponsorship & Relocation (Target: Europe )**
 
 ---
 
