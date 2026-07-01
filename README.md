@@ -1,24 +1,25 @@
-# Hi there! I'm Omar 👋
-
-### 🌍 Trilingual Localization & Content Specialist
-🌐 **Arabic (Native) | English (Professional) | Turkish (Native)**
-
-I combine strong multilingual communication with fundamental frontend skills to deliver seamless, culturally accurate, and visually polished web experiences. 
+# Hi there! I'm Omar Cuburi 👋
+### 🖥️ Creative Frontend Engineer & Multilingual UI Specialist
+🚀 **Seeking Visa Sponsorship & Relocation (Target: Europe / UAE)**
 
 ---
 
-### 🛠️ Technical Basics & Skills
-*   **Web Fundamentals:** HTML5 & CSS3
-*   **Localization:** UI/UX Adaptation, Text Alignment, and Right-to-Left (RTL) Layout Adjustments for the Arabic market.
-*   **Content Management:** Managing multi-language assets and web panels without breaking layout integrity.
+## ⚡ TELEMETRY (ABOUT ME)
+I am an ambitious **Creative Frontend Engineer** and **Multilingual Interface Architect** who bridges the gap between deep technical literacy and cross-cultural user experiences. I specialize in crafting immersive 3D web applications, fluid UI/UX animations, and engineering bulletproof multi-language layout architectures. 
+
+With native fluency in **Arabic and Turkish**, combined with professional **English** capabilities, I build high-performance web systems optimized for global deployment.
 
 ---
 
-### 🚀 What I Offer
-*   **RTL Interface Optimization:** Using HTML and CSS to fix broken text alignments and layout issues that happen when websites are translated into Arabic.
-*   **Flawless Localization:** Bridging the gap between code and content across English, Arabic, and Turkish.
-*   **Web Maintenance:** Keeping multi-language website pages clean, responsive, and visually structured.
+## 🛠️ TECH STACK & CYBER WEAPONS
 
----
+```crypto-telemetry
+=======================================================================
+[3D & CREATIVE] :: Three.js • WebGL • GSAP • Creative UI/UX • Shaders
+[CORE FRONTEND] :: JavaScript (ES6+) • HTML5 • CSS3 • SCSS • Responsive
+[LOCALIZATION]  :: RTL/LTR Localization Engines • Enterprise i18n Layouts
+[DEV PIPELINES] :: Git • GitHub • Netlify • AI-Assisted Dev (Cursor/Claude)
+=======================================================================
 
-📫 **Contact Me:** Email : cuburiomerr@icloud.com | Linkedin : www.linkedin.com/in/ömer-cuburi-96393b411  Live Portfolio : https://my-job-ticket.netlify.app   My Live CV : https://my-live-cv.netlify.app
+Email : cuburiomerr@icloud.com                                                      My Projects : https://omercyberroom.netlify.app/
+Linkedin : www.linkedin.com/in/ömer-cuburi-96393b411                                              https://my-live-cv.netlify.app
